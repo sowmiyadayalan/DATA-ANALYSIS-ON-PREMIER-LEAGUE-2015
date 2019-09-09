@@ -1,0 +1,381 @@
+,Date_Time,home,away,home_goal,away_goal,Location,Coordinates,Date,Time,FeelsLikeF,HeatIndexF,humidity,visibility,weatherDesc,windspeedMiles
+0,2015-08-08T11:45:00Z,Manchester United ,Tottenham Hotspur ,1.0,0.0,Trafford,"(53.4189014, -2.35946945066462)",2015-08-08,11:45:00Z,62,64,71,10,Overcast,6
+1,2015-08-08T14:00:00Z,AFC Bournemouth,Aston Villa ,0.0,1.0,Bournemouth,"(50.74467035, -1.85798080318094)",2015-08-08,14:00:00Z,67,67,61,10,Sunny,5
+2,2015-08-08T14:00:00Z,Leicester City ,Sunderland AFC,4.0,2.0,Leicester,"(52.6367811, -1.1312288)",2015-08-08,14:00:00Z,66,69,67,10,Light rain shower,7
+3,2015-08-08T14:00:00Z,Norwich City ,Crystal Palace ,1.0,3.0,Norwich,"(52.628606, 1.29227)",2015-08-08,14:00:00Z,64,65,65,10,Sunny,7
+4,2015-08-08T14:00:00Z,Everton ,Watford ,2.0,2.0,Liverpool,"(53.4054719, -2.9805391)",2015-08-08,14:00:00Z,64,64,69,10,Overcast,4
+5,2015-08-08T16:30:00Z,Chelsea ,Swansea City ,2.0,2.0,London,"(51.5073219, -0.1276473)",2015-08-08,16:30:00Z,70,70,67,10,Patchy rain possible,5
+6,2015-08-09T12:30:00Z,Newcastle United ,Southampton ,2.0,2.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2015-08-09,12:30:00Z,61,64,76,9,Patchy rain possible,10
+7,2015-08-09T12:30:00Z,Arsenal ,West Ham United ,0.0,2.0,London,"(51.5073219, -0.1276473)",2015-08-09,12:30:00Z,73,73,54,10,Sunny,7
+8,2015-08-09T15:00:00Z,Stoke City ,Liverpool ,0.0,1.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2015-08-09,15:00:00Z,59,62,82,10,Light rain,10
+9,2015-08-10T19:00:00Z,West Bromwich Albion ,Manchester City ,0.0,3.0,West Bromwich,"(52.5186579, -1.9923113)",2015-08-10,19:00:00Z,62,64,86,9,Light rain shower,13
+10,2015-08-14T18:45:00Z,Aston Villa ,Manchester United ,0.0,1.0,Birmingham,"(52.4776875, -1.8948515)",2015-08-14,18:45:00Z,59,60,89,8,Light rain shower,12
+11,2015-08-15T11:45:00Z,Southampton ,Everton ,0.0,3.0,Southampton,"(50.9025349, -1.4041889)",2015-08-15,11:45:00Z,58,59,72,10,Light rain shower,8
+12,2015-08-15T14:00:00Z,Swansea City ,Newcastle United ,2.0,0.0,Swansea,"(51.6211442, -3.946775)",2015-08-15,14:00:00Z,53,56,73,10,Patchy rain possible,10
+13,2015-08-15T14:00:00Z,Watford ,West Bromwich Albion ,0.0,0.0,Watford,"(51.6553875, -0.3957424)",2015-08-15,14:00:00Z,58,59,72,10,Cloudy,9
+14,2015-08-15T14:00:00Z,Sunderland AFC,Norwich City ,1.0,3.0,Sunderland,"(54.9063791, -1.3750529)",2015-08-15,14:00:00Z,53,56,77,10,Patchy rain possible,11
+15,2015-08-15T14:00:00Z,Tottenham Hotspur ,Stoke City ,2.0,2.0,London,"(51.5073219, -0.1276473)",2015-08-15,14:00:00Z,60,61,69,10,Overcast,11
+16,2015-08-15T14:00:00Z,West Ham United ,Leicester City ,1.0,2.0,London,"(51.5073219, -0.1276473)",2015-08-15,14:00:00Z,60,61,69,10,Overcast,11
+17,2015-08-16T12:30:00Z,Crystal Palace ,Arsenal ,1.0,2.0,London,"(51.5073219, -0.1276473)",2015-08-16,12:30:00Z,62,64,59,10,Overcast,4
+18,2015-08-16T15:00:00Z,Manchester City ,Chelsea ,3.0,0.0,Manchester,"(53.4791301, -2.2441008)",2015-08-16,15:00:00Z,55,56,73,10,Patchy rain possible,3
+19,2015-08-17T19:00:00Z,Liverpool ,AFC Bournemouth,1.0,0.0,Liverpool,"(53.4054719, -2.9805391)",2015-08-17,19:00:00Z,60,61,71,10,Sunny,5
+20,2015-08-22T11:45:00Z,Manchester United ,Newcastle United ,0.0,0.0,Trafford,"(53.4189014, -2.35946945066462)",2015-08-22,11:45:00Z,66,68,86,6,Moderate or heavy rain shower,9
+21,2015-08-22T14:00:00Z,Crystal Palace ,Aston Villa ,2.0,1.0,London,"(51.5073219, -0.1276473)",2015-08-22,14:00:00Z,75,75,62,10,Partly cloudy,10
+22,2015-08-22T14:00:00Z,West Ham United ,AFC Bournemouth,3.0,4.0,London,"(51.5073219, -0.1276473)",2015-08-22,14:00:00Z,75,75,62,10,Partly cloudy,10
+23,2015-08-22T14:00:00Z,Sunderland AFC,Swansea City ,1.0,1.0,Sunderland,"(54.9063791, -1.3750529)",2015-08-22,14:00:00Z,59,61,89,9,Patchy light rain with thunder,5
+24,2015-08-22T14:00:00Z,Norwich City ,Stoke City ,1.0,1.0,Norwich,"(52.628606, 1.29227)",2015-08-22,14:00:00Z,73,73,64,10,Patchy rain possible,9
+25,2015-08-22T14:00:00Z,Leicester City ,Tottenham Hotspur ,1.0,1.0,Leicester,"(52.6367811, -1.1312288)",2015-08-22,14:00:00Z,71,71,73,9,Patchy light rain with thunder,10
+26,2015-08-23T12:30:00Z,West Bromwich Albion ,Chelsea ,2.0,3.0,West Bromwich,"(52.5186579, -1.9923113)",2015-08-23,12:30:00Z,64,66,77,9,Moderate or heavy rain shower,16
+27,2015-08-23T15:00:00Z,Everton ,Manchester City ,0.0,2.0,Liverpool,"(53.4054719, -2.9805391)",2015-08-23,15:00:00Z,73,73,77,8,Torrential rain shower,15
+28,2015-08-23T15:00:00Z,Watford ,Southampton ,0.0,0.0,Watford,"(51.6553875, -0.3957424)",2015-08-23,15:00:00Z,65,67,66,10,Moderate rain,11
+29,2015-08-24T19:00:00Z,Arsenal ,Liverpool ,0.0,0.0,London,"(51.5073219, -0.1276473)",2015-08-24,19:00:00Z,56,58,87,8,Moderate rain,10
+30,2015-08-29T11:45:00Z,Newcastle United ,Arsenal ,0.0,1.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2015-08-29,11:45:00Z,60,61,70,10,Light rain shower,10
+31,2015-08-29T14:00:00Z,AFC Bournemouth,Leicester City ,1.0,1.0,Bournemouth,"(50.74467035, -1.85798080318094)",2015-08-29,14:00:00Z,62,62,83,10,Patchy rain possible,5
+32,2015-08-29T14:00:00Z,Aston Villa ,Sunderland AFC,2.0,2.0,Birmingham,"(52.4776875, -1.8948515)",2015-08-29,14:00:00Z,59,61,74,10,Partly cloudy,9
+33,2015-08-29T14:00:00Z,Chelsea ,Crystal Palace ,1.0,2.0,London,"(51.5073219, -0.1276473)",2015-08-29,14:00:00Z,62,63,77,10,Patchy rain possible,6
+34,2015-08-29T14:00:00Z,Liverpool ,West Ham United ,0.0,3.0,Liverpool,"(53.4054719, -2.9805391)",2015-08-29,14:00:00Z,60,61,73,10,Partly cloudy,9
+35,2015-08-29T14:00:00Z,Manchester City ,Watford ,2.0,0.0,Manchester,"(53.4791301, -2.2441008)",2015-08-29,14:00:00Z,58,59,78,10,Patchy rain possible,9
+36,2015-08-29T14:00:00Z,Stoke City ,West Bromwich Albion ,0.0,1.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2015-08-29,14:00:00Z,57,59,81,10,Light rain shower,8
+37,2015-08-29T16:30:00Z,Tottenham Hotspur ,Everton ,0.0,0.0,London,"(51.5073219, -0.1276473)",2015-08-29,16:30:00Z,62,63,77,10,Patchy rain possible,6
+38,2015-08-30T12:30:00Z,Southampton ,Norwich City ,3.0,0.0,Southampton,"(50.9025349, -1.4041889)",2015-08-30,12:30:00Z,63,64,84,9,Moderate rain at times,6
+39,2015-08-30T15:00:00Z,Swansea City ,Manchester United ,2.0,1.0,Swansea,"(51.6211442, -3.946775)",2015-08-30,15:00:00Z,62,62,78,10,Light rain,6
+40,2015-09-12T11:45:00Z,Everton ,Chelsea ,3.0,1.0,Liverpool,"(53.4054719, -2.9805391)",2015-09-12,11:45:00Z,56,59,79,9,Light rain shower,13
+41,2015-09-12T14:00:00Z,Arsenal ,Stoke City ,2.0,0.0,London,"(51.5073219, -0.1276473)",2015-09-12,14:00:00Z,62,62,69,9,Light drizzle,13
+42,2015-09-12T14:00:00Z,West Bromwich Albion ,Southampton ,0.0,0.0,West Bromwich,"(52.5186579, -1.9923113)",2015-09-12,14:00:00Z,54,57,79,10,Light rain shower,12
+43,2015-09-12T14:00:00Z,Norwich City ,AFC Bournemouth,3.0,1.0,Norwich,"(52.628606, 1.29227)",2015-09-12,14:00:00Z,61,62,74,9,Moderate or heavy rain with thunder,11
+44,2015-09-12T14:00:00Z,Crystal Palace ,Manchester City ,0.0,1.0,London,"(51.5073219, -0.1276473)",2015-09-12,14:00:00Z,62,62,69,9,Light drizzle,13
+45,2015-09-12T14:00:00Z,Watford ,Swansea City ,1.0,0.0,Watford,"(51.6553875, -0.3957424)",2015-09-12,14:00:00Z,59,60,72,8,Light rain shower,10
+46,2015-09-12T16:30:00Z,Manchester United ,Liverpool ,3.0,1.0,Trafford,"(53.4189014, -2.35946945066462)",2015-09-12,16:30:00Z,53,56,79,9,Light rain shower,14
+47,2015-09-13T12:30:00Z,Sunderland AFC,Tottenham Hotspur ,0.0,1.0,Sunderland,"(54.9063791, -1.3750529)",2015-09-13,12:30:00Z,52,55,79,10,Light rain shower,11
+48,2015-09-13T15:00:00Z,Leicester City ,Aston Villa ,3.0,2.0,Leicester,"(52.6367811, -1.1312288)",2015-09-13,15:00:00Z,51,53,80,9,Light drizzle,8
+49,2015-09-14T19:00:00Z,West Ham United ,Newcastle United ,2.0,0.0,London,"(51.5073219, -0.1276473)",2015-09-14,19:00:00Z,55,57,76,10,Light rain shower,14
+50,2015-09-19T11:45:00Z,Chelsea ,Arsenal ,2.0,0.0,London,"(51.5073219, -0.1276473)",2015-09-19,11:45:00Z,58,60,77,9,Sunny,6
+51,2015-09-19T14:00:00Z,Stoke City ,Leicester City ,2.0,2.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2015-09-19,14:00:00Z,55,57,80,10,Partly cloudy,3
+52,2015-09-19T14:00:00Z,Newcastle United ,Watford ,1.0,2.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2015-09-19,14:00:00Z,55,56,80,10,Patchy rain possible,5
+53,2015-09-19T14:00:00Z,Swansea City ,Everton ,0.0,0.0,Swansea,"(51.6211442, -3.946775)",2015-09-19,14:00:00Z,58,58,79,10,Cloudy,5
+54,2015-09-19T14:00:00Z,Aston Villa ,West Bromwich Albion ,0.0,1.0,Birmingham,"(52.4776875, -1.8948515)",2015-09-19,14:00:00Z,56,58,77,8,Sunny,4
+55,2015-09-19T14:00:00Z,AFC Bournemouth,Sunderland AFC,2.0,0.0,Bournemouth,"(50.74467035, -1.85798080318094)",2015-09-19,14:00:00Z,59,60,79,10,Partly cloudy,4
+56,2015-09-19T16:30:00Z,Manchester City ,West Ham United ,1.0,2.0,Manchester,"(53.4791301, -2.2441008)",2015-09-19,16:30:00Z,54,56,80,10,Partly cloudy,4
+57,2015-09-20T12:30:00Z,Tottenham Hotspur ,Crystal Palace ,1.0,0.0,London,"(51.5073219, -0.1276473)",2015-09-20,12:30:00Z,58,59,73,10,Partly cloudy,7
+58,2015-09-20T15:00:00Z,Southampton ,Manchester United ,2.0,3.0,Southampton,"(50.9025349, -1.4041889)",2015-09-20,15:00:00Z,57,58,79,10,Partly cloudy,5
+59,2015-09-20T15:00:00Z,Liverpool ,Norwich City ,1.0,1.0,Liverpool,"(53.4054719, -2.9805391)",2015-09-20,15:00:00Z,56,57,81,9,Overcast,7
+60,2015-09-26T11:45:00Z,Tottenham Hotspur ,Manchester City ,4.0,1.0,London,"(51.5073219, -0.1276473)",2015-09-26,11:45:00Z,55,57,71,10,Sunny,6
+61,2015-09-26T14:00:00Z,Leicester City ,Arsenal ,2.0,5.0,Leicester,"(52.6367811, -1.1312288)",2015-09-26,14:00:00Z,53,54,75,10,Sunny,4
+62,2015-09-26T14:00:00Z,Stoke City ,AFC Bournemouth,2.0,1.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2015-09-26,14:00:00Z,51,52,78,10,Sunny,3
+63,2015-09-26T14:00:00Z,Southampton ,Swansea City ,3.0,1.0,Southampton,"(50.9025349, -1.4041889)",2015-09-26,14:00:00Z,57,59,68,10,Sunny,7
+64,2015-09-26T14:00:00Z,Manchester United ,Sunderland AFC,3.0,0.0,Trafford,"(53.4189014, -2.35946945066462)",2015-09-26,14:00:00Z,51,52,79,9,Cloudy,3
+65,2015-09-26T14:00:00Z,West Ham United ,Norwich City ,2.0,2.0,London,"(51.5073219, -0.1276473)",2015-09-26,14:00:00Z,55,57,71,10,Sunny,6
+66,2015-09-26T14:00:00Z,Liverpool ,Aston Villa ,3.0,2.0,Liverpool,"(53.4054719, -2.9805391)",2015-09-26,14:00:00Z,54,56,75,10,Sunny,5
+67,2015-09-26T16:30:00Z,Newcastle United ,Chelsea ,2.0,2.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2015-09-26,16:30:00Z,55,56,79,10,Sunny,5
+68,2015-09-27T15:00:00Z,Watford ,Crystal Palace ,0.0,1.0,Watford,"(51.6553875, -0.3957424)",2015-09-27,15:00:00Z,53,55,78,10,Partly cloudy,7
+69,2015-09-28T19:00:00Z,West Bromwich Albion ,Everton ,2.0,3.0,West Bromwich,"(52.5186579, -1.9923113)",2015-09-28,19:00:00Z,52,55,83,9,Sunny,8
+70,2015-10-03T11:45:00Z,Crystal Palace ,West Bromwich Albion ,2.0,0.0,London,"(51.5073219, -0.1276473)",2015-10-03,11:45:00Z,56,57,73,10,Sunny,3
+71,2015-10-03T14:00:00Z,Manchester City ,Newcastle United ,6.0,1.0,Manchester,"(53.4791301, -2.2441008)",2015-10-03,14:00:00Z,49,50,76,10,Cloudy,2
+72,2015-10-03T14:00:00Z,Aston Villa ,Stoke City ,0.0,1.0,Birmingham,"(52.4776875, -1.8948515)",2015-10-03,14:00:00Z,53,53,80,10,Sunny,2
+73,2015-10-03T14:00:00Z,Sunderland AFC,West Ham United ,2.0,2.0,Sunderland,"(54.9063791, -1.3750529)",2015-10-03,14:00:00Z,49,50,76,10,Cloudy,3
+74,2015-10-03T14:00:00Z,Norwich City ,Leicester City ,1.0,2.0,Norwich,"(52.628606, 1.29227)",2015-10-03,14:00:00Z,57,58,74,10,Sunny,4
+75,2015-10-03T14:00:00Z,AFC Bournemouth,Watford ,1.0,1.0,Bournemouth,"(50.74467035, -1.85798080318094)",2015-10-03,14:00:00Z,53,55,70,10,Partly cloudy,5
+76,2015-10-03T16:30:00Z,Chelsea ,Southampton ,1.0,3.0,London,"(51.5073219, -0.1276473)",2015-10-03,16:30:00Z,56,57,73,10,Sunny,3
+77,2015-10-04T12:30:00Z,Everton ,Liverpool ,1.0,1.0,Liverpool,"(53.4054719, -2.9805391)",2015-10-04,12:30:00Z,52,53,76,10,Partly cloudy,7
+78,2015-10-04T15:00:00Z,Swansea City ,Tottenham Hotspur ,2.0,2.0,Swansea,"(51.6211442, -3.946775)",2015-10-04,15:00:00Z,56,57,78,10,Overcast,14
+79,2015-10-04T15:00:00Z,Arsenal ,Manchester United ,3.0,0.0,London,"(51.5073219, -0.1276473)",2015-10-04,15:00:00Z,55,57,74,10,Sunny,5
+80,2015-10-17T11:45:00Z,Tottenham Hotspur ,Liverpool ,0.0,0.0,London,"(51.5073219, -0.1276473)",2015-10-17,11:45:00Z,47,51,82,10,Patchy rain possible,13
+81,2015-10-17T14:00:00Z,West Bromwich Albion ,Sunderland AFC,1.0,0.0,West Bromwich,"(52.5186579, -1.9923113)",2015-10-17,14:00:00Z,42,47,84,10,Patchy rain possible,10
+82,2015-10-17T14:00:00Z,Manchester City ,AFC Bournemouth,5.0,1.0,Manchester,"(53.4791301, -2.2441008)",2015-10-17,14:00:00Z,42,47,84,10,Partly cloudy,10
+83,2015-10-17T14:00:00Z,Chelsea ,Aston Villa ,2.0,0.0,London,"(51.5073219, -0.1276473)",2015-10-17,14:00:00Z,47,51,82,10,Patchy rain possible,13
+84,2015-10-17T14:00:00Z,Southampton ,Leicester City ,2.0,2.0,Southampton,"(50.9025349, -1.4041889)",2015-10-17,14:00:00Z,46,51,80,10,Overcast,11
+85,2015-10-17T14:00:00Z,Everton ,Manchester United ,0.0,3.0,Liverpool,"(53.4054719, -2.9805391)",2015-10-17,14:00:00Z,45,49,81,10,Overcast,7
+86,2015-10-17T14:00:00Z,Crystal Palace ,West Ham United ,1.0,3.0,London,"(51.5073219, -0.1276473)",2015-10-17,14:00:00Z,47,51,82,10,Patchy rain possible,13
+87,2015-10-17T16:30:00Z,Watford ,Arsenal ,0.0,3.0,Watford,"(51.6553875, -0.3957424)",2015-10-17,16:30:00Z,45,50,82,10,Patchy rain possible,11
+88,2015-10-18T15:00:00Z,Newcastle United ,Norwich City ,6.0,2.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2015-10-18,15:00:00Z,49,52,82,10,Patchy rain possible,7
+89,2015-10-19T19:00:00Z,Swansea City ,Stoke City ,0.0,1.0,Swansea,"(51.6211442, -3.946775)",2015-10-19,19:00:00Z,51,53,78,10,Overcast,6
+90,2015-10-24T14:00:00Z,Aston Villa ,Swansea City ,1.0,2.0,Birmingham,"(52.4776875, -1.8948515)",2015-10-24,14:00:00Z,43,49,89,9,Light rain,14
+91,2015-10-24T14:00:00Z,Leicester City ,Crystal Palace ,1.0,0.0,Leicester,"(52.6367811, -1.1312288)",2015-10-24,14:00:00Z,43,48,90,9,Light rain,13
+92,2015-10-24T14:00:00Z,Stoke City ,Watford ,0.0,2.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2015-10-24,14:00:00Z,42,47,90,10,Light rain,14
+93,2015-10-24T14:00:00Z,Norwich City ,West Bromwich Albion ,0.0,1.0,Norwich,"(52.628606, 1.29227)",2015-10-24,14:00:00Z,48,52,82,10,Moderate rain,13
+94,2015-10-24T14:00:00Z,West Ham United ,Chelsea ,2.0,1.0,London,"(51.5073219, -0.1276473)",2015-10-24,14:00:00Z,52,55,86,8,Moderate rain at times,12
+95,2015-10-24T16:30:00Z,Arsenal ,Everton ,2.0,1.0,London,"(51.5073219, -0.1276473)",2015-10-24,16:30:00Z,52,55,86,8,Moderate rain at times,12
+96,2015-10-25T12:00:00Z,Sunderland AFC,Newcastle United ,3.0,0.0,Sunderland,"(54.9063791, -1.3750529)",2015-10-25,12:00:00Z,45,50,75,10,Overcast,13
+97,2015-10-25T14:05:00Z,Manchester United ,Manchester City ,0.0,0.0,Trafford,"(53.4189014, -2.35946945066462)",2015-10-25,14:05:00Z,42,47,79,10,Partly cloudy,10
+98,2015-10-25T14:05:00Z,AFC Bournemouth,Tottenham Hotspur ,1.0,5.0,Bournemouth,"(50.74467035, -1.85798080318094)",2015-10-25,14:05:00Z,46,49,75,10,Overcast,5
+99,2015-10-25T16:15:00Z,Liverpool ,Southampton ,1.0,1.0,Liverpool,"(53.4054719, -2.9805391)",2015-10-25,16:15:00Z,45,50,73,10,Partly cloudy,11
+100,2015-10-31T12:45:00Z,Chelsea ,Liverpool ,1.0,3.0,London,"(51.5073219, -0.1276473)",2015-10-31,12:45:00Z,55,57,85,10,Sunny,7
+101,2015-10-31T15:00:00Z,Manchester City ,Norwich City ,2.0,1.0,Manchester,"(53.4791301, -2.2441008)",2015-10-31,15:00:00Z,53,55,84,10,Partly cloudy,6
+102,2015-10-31T15:00:00Z,Swansea City ,Arsenal ,0.0,3.0,Swansea,"(51.6211442, -3.946775)",2015-10-31,15:00:00Z,57,59,84,10,Overcast,14
+103,2015-10-31T15:00:00Z,Crystal Palace ,Manchester United ,0.0,0.0,London,"(51.5073219, -0.1276473)",2015-10-31,15:00:00Z,55,57,85,10,Sunny,7
+104,2015-10-31T15:00:00Z,Newcastle United ,Stoke City ,0.0,0.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2015-10-31,15:00:00Z,54,56,85,9,Partly cloudy,10
+105,2015-10-31T15:00:00Z,Watford ,West Ham United ,2.0,0.0,Watford,"(51.6553875, -0.3957424)",2015-10-31,15:00:00Z,53,55,87,10,Partly cloudy,7
+106,2015-10-31T15:00:00Z,West Bromwich Albion ,Leicester City ,2.0,3.0,West Bromwich,"(52.5186579, -1.9923113)",2015-10-31,15:00:00Z,53,55,88,10,Partly cloudy,8
+107,2015-11-01T13:30:00Z,Everton ,Sunderland AFC,6.0,2.0,Liverpool,"(53.4054719, -2.9805391)",2015-11-01,13:30:00Z,59,62,85,10,Sunny,6
+108,2015-11-01T16:00:00Z,Southampton ,AFC Bournemouth,2.0,0.0,Southampton,"(50.9025349, -1.4041889)",2015-11-01,16:00:00Z,60,62,84,10,Sunny,5
+109,2015-11-02T20:00:00Z,Tottenham Hotspur ,Aston Villa ,3.0,1.0,London,"(51.5073219, -0.1276473)",2015-11-02,20:00:00Z,60,61,83,10,Sunny,5
+110,2015-11-07T12:45:00Z,AFC Bournemouth,Newcastle United ,0.0,1.0,Bournemouth,"(50.74467035, -1.85798080318094)",2015-11-07,12:45:00Z,58,59,94,8,Light rain,19
+111,2015-11-07T15:00:00Z,West Ham United ,Everton ,1.0,1.0,London,"(51.5073219, -0.1276473)",2015-11-07,15:00:00Z,57,59,88,9,Light rain,18
+112,2015-11-07T15:00:00Z,Leicester City ,Watford ,2.0,1.0,Leicester,"(52.6367811, -1.1312288)",2015-11-07,15:00:00Z,52,55,89,9,Moderate or heavy rain with thunder,14
+113,2015-11-07T15:00:00Z,Norwich City ,Swansea City ,1.0,0.0,Norwich,"(52.628606, 1.29227)",2015-11-07,15:00:00Z,57,59,86,8,Moderate rain,14
+114,2015-11-07T15:00:00Z,Sunderland AFC,Southampton ,0.0,1.0,Sunderland,"(54.9063791, -1.3750529)",2015-11-07,15:00:00Z,51,54,88,9,Moderate or heavy rain with thunder,16
+115,2015-11-07T15:00:00Z,Manchester United ,West Bromwich Albion ,2.0,0.0,Trafford,"(53.4189014, -2.35946945066462)",2015-11-07,15:00:00Z,49,53,87,10,Moderate or heavy rain with thunder,14
+116,2015-11-07T17:30:00Z,Stoke City ,Chelsea ,1.0,0.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2015-11-07,17:30:00Z,50,53,90,10,Moderate or heavy rain with thunder,13
+117,2015-11-08T13:30:00Z,Aston Villa ,Manchester City ,0.0,0.0,Birmingham,"(52.4776875, -1.8948515)",2015-11-08,13:30:00Z,49,53,91,7,Light drizzle,15
+118,2015-11-08T16:00:00Z,Arsenal ,Tottenham Hotspur ,1.0,1.0,London,"(51.5073219, -0.1276473)",2015-11-08,16:00:00Z,52,55,90,10,Overcast,13
+119,2015-11-08T16:00:00Z,Liverpool ,Crystal Palace ,1.0,2.0,Liverpool,"(53.4054719, -2.9805391)",2015-11-08,16:00:00Z,47,52,87,9,Moderate rain,15
+120,2015-11-21T12:45:00Z,Watford ,Manchester United ,1.0,2.0,Watford,"(51.6553875, -0.3957424)",2015-11-21,12:45:00Z,27,37,77,8,Moderate or heavy rain with thunder,19
+121,2015-11-21T15:00:00Z,Everton ,Aston Villa ,4.0,0.0,Liverpool,"(53.4054719, -2.9805391)",2015-11-21,15:00:00Z,32,41,67,9,Cloudy,22
+122,2015-11-21T15:00:00Z,West Bromwich Albion ,Arsenal ,2.0,1.0,West Bromwich,"(52.5186579, -1.9923113)",2015-11-21,15:00:00Z,25,36,75,10,Patchy light snow,20
+123,2015-11-21T15:00:00Z,Newcastle United ,Leicester City ,0.0,3.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2015-11-21,15:00:00Z,28,38,76,10,Light snow showers,18
+124,2015-11-21T15:00:00Z,Chelsea ,Norwich City ,1.0,0.0,London,"(51.5073219, -0.1276473)",2015-11-21,15:00:00Z,29,38,77,8,Moderate or heavy rain with thunder,22
+125,2015-11-21T15:00:00Z,Southampton ,Stoke City ,0.0,1.0,Southampton,"(50.9025349, -1.4041889)",2015-11-21,15:00:00Z,29,39,72,9,Patchy light drizzle,19
+126,2015-11-21T15:00:00Z,Swansea City ,AFC Bournemouth,2.0,2.0,Swansea,"(51.6211442, -3.946775)",2015-11-21,15:00:00Z,35,44,67,9,Patchy rain possible,20
+127,2015-11-21T17:30:00Z,Manchester City ,Liverpool ,1.0,4.0,Manchester,"(53.4791301, -2.2441008)",2015-11-21,17:30:00Z,26,35,73,9,Partly cloudy,17
+128,2015-11-22T16:00:00Z,Tottenham Hotspur ,West Ham United ,4.0,1.0,London,"(51.5073219, -0.1276473)",2015-11-22,16:00:00Z,28,36,79,9,Light drizzle,7
+129,2015-11-23T20:00:00Z,Crystal Palace ,Sunderland AFC,0.0,1.0,London,"(51.5073219, -0.1276473)",2015-11-23,20:00:00Z,31,36,82,10,Overcast,5
+130,2015-11-28T15:00:00Z,Aston Villa ,Watford ,2.0,3.0,Birmingham,"(52.4776875, -1.8948515)",2015-11-28,15:00:00Z,33,42,80,10,Light rain shower,19
+131,2015-11-28T15:00:00Z,Sunderland AFC,Stoke City ,2.0,0.0,Sunderland,"(54.9063791, -1.3750529)",2015-11-28,15:00:00Z,37,45,74,9,Moderate or heavy rain with thunder,28
+132,2015-11-28T15:00:00Z,Crystal Palace ,Newcastle United ,5.0,1.0,London,"(51.5073219, -0.1276473)",2015-11-28,15:00:00Z,36,44,75,9,Light drizzle,19
+133,2015-11-28T15:00:00Z,AFC Bournemouth,Everton ,3.0,3.0,Bournemouth,"(50.74467035, -1.85798080318094)",2015-11-28,15:00:00Z,39,45,74,9,Light rain shower,21
+134,2015-11-28T15:00:00Z,Manchester City ,Southampton ,3.0,1.0,Manchester,"(53.4791301, -2.2441008)",2015-11-28,15:00:00Z,34,42,80,9,Moderate or heavy rain shower,18
+135,2015-11-28T17:30:00Z,Leicester City ,Manchester United ,1.0,1.0,Leicester,"(52.6367811, -1.1312288)",2015-11-28,17:30:00Z,32,40,80,9,Moderate or heavy rain with thunder,18
+136,2015-11-29T12:00:00Z,Tottenham Hotspur ,Chelsea ,0.0,0.0,London,"(51.5073219, -0.1276473)",2015-11-29,12:00:00Z,43,50,80,7,Moderate or heavy rain with thunder,27
+137,2015-11-29T14:05:00Z,West Ham United ,West Bromwich Albion ,1.0,1.0,London,"(51.5073219, -0.1276473)",2015-11-29,14:05:00Z,43,50,80,7,Moderate or heavy rain with thunder,27
+138,2015-11-29T16:15:00Z,Norwich City ,Arsenal ,1.0,1.0,Norwich,"(52.628606, 1.29227)",2015-11-29,16:15:00Z,40,48,75,8,Light drizzle,21
+139,2015-11-29T16:15:00Z,Liverpool ,Swansea City ,1.0,0.0,Liverpool,"(53.4054719, -2.9805391)",2015-11-29,16:15:00Z,41,49,73,9,Light rain shower,28
+140,2015-12-05T15:00:00Z,West Bromwich Albion ,Tottenham Hotspur ,1.0,1.0,West Bromwich,"(52.5186579, -1.9923113)",2015-12-05,15:00:00Z,43,51,76,9,Overcast,27
+141,2015-12-05T15:00:00Z,Swansea City ,Leicester City ,0.0,3.0,Swansea,"(51.6211442, -3.946775)",2015-12-05,15:00:00Z,50,56,80,7,Light drizzle,34
+142,2015-12-05T15:00:00Z,Stoke City ,Manchester City ,2.0,0.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2015-12-05,15:00:00Z,44,51,80,7,Light rain,26
+143,2015-12-05T15:00:00Z,Southampton ,Aston Villa ,1.0,1.0,Southampton,"(50.9025349, -1.4041889)",2015-12-05,15:00:00Z,48,54,80,9,Light drizzle,24
+144,2015-12-05T15:00:00Z,Watford ,Norwich City ,2.0,0.0,Watford,"(51.6553875, -0.3957424)",2015-12-05,15:00:00Z,45,52,80,10,Overcast,23
+145,2015-12-05T15:00:00Z,Manchester United ,West Ham United ,0.0,0.0,Trafford,"(53.4189014, -2.35946945066462)",2015-12-05,15:00:00Z,44,52,80,7,Light rain,28
+146,2015-12-05T15:00:00Z,Arsenal ,Sunderland AFC,3.0,1.0,London,"(51.5073219, -0.1276473)",2015-12-05,15:00:00Z,45,52,79,10,Overcast,26
+147,2015-12-05T17:30:00Z,Chelsea ,AFC Bournemouth,0.0,1.0,London,"(51.5073219, -0.1276473)",2015-12-05,17:30:00Z,45,52,79,10,Overcast,26
+148,2015-12-06T16:00:00Z,Newcastle United ,Liverpool ,2.0,0.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2015-12-06,16:00:00Z,44,50,73,9,Patchy rain possible,20
+149,2015-12-07T20:00:00Z,Everton ,Crystal Palace ,1.0,1.0,Liverpool,"(53.4054719, -2.9805391)",2015-12-07,20:00:00Z,47,53,87,8,Light rain,17
+150,2015-12-12T12:45:00Z,Norwich City ,Everton ,1.0,1.0,Norwich,"(52.628606, 1.29227)",2015-12-12,12:45:00Z,36,43,85,6,Moderate rain,13
+151,2015-12-12T15:00:00Z,West Ham United ,Stoke City ,0.0,0.0,London,"(51.5073219, -0.1276473)",2015-12-12,15:00:00Z,42,48,85,7,Light drizzle,15
+152,2015-12-12T15:00:00Z,Sunderland AFC,Watford ,0.0,1.0,Sunderland,"(54.9063791, -1.3750529)",2015-12-12,15:00:00Z,31,39,84,8,Heavy rain,12
+153,2015-12-12T15:00:00Z,Crystal Palace ,Southampton ,1.0,0.0,London,"(51.5073219, -0.1276473)",2015-12-12,15:00:00Z,42,48,85,7,Light drizzle,15
+154,2015-12-12T15:00:00Z,Manchester City ,Swansea City ,2.0,1.0,Manchester,"(53.4791301, -2.2441008)",2015-12-12,15:00:00Z,36,42,88,8,Heavy rain,10
+155,2015-12-12T17:30:00Z,AFC Bournemouth,Manchester United ,2.0,1.0,Bournemouth,"(50.74467035, -1.85798080318094)",2015-12-12,17:30:00Z,50,53,88,9,Patchy rain possible,16
+156,2015-12-13T13:30:00Z,Aston Villa ,Arsenal ,0.0,2.0,Birmingham,"(52.4776875, -1.8948515)",2015-12-13,13:30:00Z,34,40,93,8,Light rain,7
+157,2015-12-13T16:00:00Z,Liverpool ,West Bromwich Albion ,2.0,2.0,Liverpool,"(53.4054719, -2.9805391)",2015-12-13,16:00:00Z,34,39,90,9,Light rain,7
+158,2015-12-13T16:00:00Z,Tottenham Hotspur ,Newcastle United ,1.0,2.0,London,"(51.5073219, -0.1276473)",2015-12-13,16:00:00Z,45,49,90,5,Light drizzle,8
+159,2015-12-14T20:00:00Z,Leicester City ,Chelsea ,2.0,1.0,Leicester,"(52.6367811, -1.1312288)",2015-12-14,20:00:00Z,39,44,94,9,Light rain,7
+160,2015-12-19T15:00:00Z,Manchester United ,Norwich City ,1.0,2.0,Trafford,"(53.4189014, -2.35946945066462)",2015-12-19,15:00:00Z,50,55,87,10,Light rain,20
+161,2015-12-19T15:00:00Z,West Bromwich Albion ,AFC Bournemouth,1.0,2.0,West Bromwich,"(52.5186579, -1.9923113)",2015-12-19,15:00:00Z,52,56,87,7,Light drizzle,21
+162,2015-12-19T15:00:00Z,Southampton ,Tottenham Hotspur ,0.0,2.0,Southampton,"(50.9025349, -1.4041889)",2015-12-19,15:00:00Z,54,57,86,8,Cloudy,18
+163,2015-12-19T15:00:00Z,Chelsea ,Sunderland AFC,3.0,1.0,London,"(51.5073219, -0.1276473)",2015-12-19,15:00:00Z,52,56,85,10,Cloudy,19
+164,2015-12-19T15:00:00Z,Everton ,Leicester City ,2.0,3.0,Liverpool,"(53.4054719, -2.9805391)",2015-12-19,15:00:00Z,55,57,84,7,Light rain,18
+165,2015-12-19T15:00:00Z,Stoke City ,Crystal Palace ,1.0,2.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2015-12-19,15:00:00Z,50,55,89,7,Light drizzle,19
+166,2015-12-19T17:30:00Z,Newcastle United ,Aston Villa ,1.0,1.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2015-12-19,17:30:00Z,53,57,85,9,Light drizzle,17
+167,2015-12-20T13:30:00Z,Watford ,Liverpool ,3.0,0.0,Watford,"(51.6553875, -0.3957424)",2015-12-20,13:30:00Z,47,52,81,10,Cloudy,18
+168,2015-12-20T16:00:00Z,Swansea City ,West Ham United ,0.0,0.0,Swansea,"(51.6211442, -3.946775)",2015-12-20,16:00:00Z,46,53,82,9,Patchy rain possible,27
+169,2015-12-21T20:00:00Z,Arsenal ,Manchester City ,2.0,1.0,London,"(51.5073219, -0.1276473)",2015-12-21,20:00:00Z,42,48,83,8,Light rain,20
+170,2015-12-26T12:45:00Z,Stoke City ,Manchester United ,2.0,0.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2015-12-26,12:45:00Z,49,54,85,8,Light drizzle,21
+171,2015-12-26T15:00:00Z,Tottenham Hotspur ,Norwich City ,3.0,0.0,London,"(51.5073219, -0.1276473)",2015-12-26,15:00:00Z,50,56,84,10,Patchy rain possible,24
+172,2015-12-26T15:00:00Z,Chelsea ,Watford ,2.0,2.0,London,"(51.5073219, -0.1276473)",2015-12-26,15:00:00Z,50,56,84,10,Patchy rain possible,24
+173,2015-12-26T15:00:00Z,Swansea City ,West Bromwich Albion ,1.0,0.0,Swansea,"(51.6211442, -3.946775)",2015-12-26,15:00:00Z,48,54,88,5,Light drizzle,29
+174,2015-12-26T15:00:00Z,Aston Villa ,West Ham United ,1.0,1.0,Birmingham,"(52.4776875, -1.8948515)",2015-12-26,15:00:00Z,49,55,84,5,Light drizzle,25
+175,2015-12-26T15:00:00Z,Liverpool ,Leicester City ,1.0,0.0,Liverpool,"(53.4054719, -2.9805391)",2015-12-26,15:00:00Z,51,55,85,5,Light drizzle,21
+176,2015-12-26T15:00:00Z,Manchester City ,Sunderland AFC,4.0,1.0,Manchester,"(53.4791301, -2.2441008)",2015-12-26,15:00:00Z,48,54,86,7,Light rain,25
+177,2015-12-26T15:00:00Z,AFC Bournemouth,Crystal Palace ,0.0,0.0,Bournemouth,"(50.74467035, -1.85798080318094)",2015-12-26,15:00:00Z,51,56,87,6,Light drizzle,26
+178,2015-12-26T17:30:00Z,Newcastle United ,Everton ,0.0,1.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2015-12-26,17:30:00Z,46,49,95,9,Moderate rain,13
+179,2015-12-26T19:45:00Z,Southampton ,Arsenal ,4.0,0.0,Southampton,"(50.9025349, -1.4041889)",2015-12-26,19:45:00Z,50,55,87,5,Light drizzle,22
+180,2015-12-28T15:00:00Z,West Bromwich Albion ,Newcastle United ,1.0,0.0,West Bromwich,"(52.5186579, -1.9923113)",2015-12-28,15:00:00Z,43,49,84,10,Overcast,18
+181,2015-12-28T15:00:00Z,Crystal Palace ,Swansea City ,0.0,0.0,London,"(51.5073219, -0.1276473)",2015-12-28,15:00:00Z,45,50,80,10,Overcast,16
+182,2015-12-28T15:00:00Z,Everton ,Stoke City ,3.0,4.0,Liverpool,"(53.4054719, -2.9805391)",2015-12-28,15:00:00Z,45,52,83,9,Cloudy,21
+183,2015-12-28T15:00:00Z,Norwich City ,Aston Villa ,2.0,0.0,Norwich,"(52.628606, 1.29227)",2015-12-28,15:00:00Z,45,50,84,10,Overcast,15
+184,2015-12-28T15:00:00Z,Watford ,Tottenham Hotspur ,1.0,2.0,Watford,"(51.6553875, -0.3957424)",2015-12-28,15:00:00Z,43,49,82,10,Overcast,14
+185,2015-12-28T17:30:00Z,West Ham United ,Southampton ,2.0,1.0,London,"(51.5073219, -0.1276473)",2015-12-28,17:30:00Z,45,50,80,10,Overcast,16
+186,2015-12-28T17:30:00Z,Manchester United ,Chelsea ,0.0,0.0,Trafford,"(53.4189014, -2.35946945066462)",2015-12-28,17:30:00Z,43,49,82,10,Cloudy,19
+187,2015-12-28T17:30:00Z,Arsenal ,AFC Bournemouth,2.0,0.0,London,"(51.5073219, -0.1276473)",2015-12-28,17:30:00Z,45,50,80,10,Overcast,16
+188,2015-12-29T19:45:00Z,Leicester City ,Manchester City ,0.0,0.0,Leicester,"(52.6367811, -1.1312288)",2015-12-29,19:45:00Z,43,49,84,9,Cloudy,15
+189,2015-12-30T19:45:00Z,Sunderland AFC,Liverpool ,0.0,1.0,Sunderland,"(54.9063791, -1.3750529)",2015-12-30,19:45:00Z,43,49,90,6,Heavy rain,26
+190,2016-01-02T12:45:00Z,West Ham United ,Liverpool ,2.0,0.0,London,"(51.5073219, -0.1276473)",2016-01-02,12:45:00Z,43,49,86,7,Moderate or heavy rain with thunder,21
+191,2016-01-02T15:00:00Z,Norwich City ,Southampton ,1.0,0.0,Norwich,"(52.628606, 1.29227)",2016-01-02,15:00:00Z,42,49,84,9,Light rain,19
+192,2016-01-02T15:00:00Z,Arsenal ,Newcastle United ,1.0,0.0,London,"(51.5073219, -0.1276473)",2016-01-02,15:00:00Z,43,49,86,7,Moderate or heavy rain with thunder,21
+193,2016-01-02T15:00:00Z,Leicester City ,AFC Bournemouth,0.0,0.0,Leicester,"(52.6367811, -1.1312288)",2016-01-02,15:00:00Z,39,46,90,7,Light drizzle,17
+194,2016-01-02T15:00:00Z,Manchester United ,Swansea City ,2.0,1.0,Trafford,"(53.4189014, -2.35946945066462)",2016-01-02,15:00:00Z,39,46,88,9,Patchy rain possible,18
+195,2016-01-02T15:00:00Z,West Bromwich Albion ,Stoke City ,2.0,1.0,West Bromwich,"(52.5186579, -1.9923113)",2016-01-02,15:00:00Z,40,47,91,5,Light rain,17
+196,2016-01-02T15:00:00Z,Sunderland AFC,Aston Villa ,3.0,1.0,Sunderland,"(54.9063791, -1.3750529)",2016-01-02,15:00:00Z,38,46,87,8,Light drizzle,18
+197,2016-01-02T17:30:00Z,Watford ,Manchester City ,1.0,2.0,Watford,"(51.6553875, -0.3957424)",2016-01-02,17:30:00Z,42,49,88,7,Moderate or heavy rain with thunder,19
+198,2016-01-03T13:30:00Z,Crystal Palace ,Chelsea ,0.0,3.0,London,"(51.5073219, -0.1276473)",2016-01-03,13:30:00Z,40,47,87,8,Moderate rain,17
+199,2016-01-03T16:00:00Z,Everton ,Tottenham Hotspur ,1.0,1.0,Liverpool,"(53.4054719, -2.9805391)",2016-01-03,16:00:00Z,39,45,91,6,Moderate rain,12
+200,2016-01-12T19:45:00Z,Newcastle United ,Manchester United ,3.0,3.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2016-01-12,19:45:00Z,34,40,92,9,Moderate or heavy rain with thunder,15
+201,2016-01-12T19:45:00Z,Aston Villa ,Crystal Palace ,1.0,0.0,Birmingham,"(52.4776875, -1.8948515)",2016-01-12,19:45:00Z,30,40,81,10,Thundery outbreaks possible,21
+202,2016-01-12T19:45:00Z,AFC Bournemouth,West Ham United ,1.0,3.0,Bournemouth,"(50.74467035, -1.85798080318094)",2016-01-12,19:45:00Z,35,43,75,10,Patchy rain possible,21
+203,2016-01-13T19:45:00Z,Stoke City ,Norwich City ,3.0,1.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2016-01-13,19:45:00Z,29,37,86,8,Moderate or heavy rain with thunder,11
+204,2016-01-13T19:45:00Z,Chelsea ,West Bromwich Albion ,2.0,2.0,London,"(51.5073219, -0.1276473)",2016-01-13,19:45:00Z,32,40,79,9,Cloudy,14
+205,2016-01-13T19:45:00Z,Swansea City ,Sunderland AFC,2.0,4.0,Swansea,"(51.6211442, -3.946775)",2016-01-13,19:45:00Z,36,44,73,9,Moderate or heavy rain with thunder,20
+206,2016-01-13T19:45:00Z,Southampton ,Watford ,2.0,0.0,Southampton,"(50.9025349, -1.4041889)",2016-01-13,19:45:00Z,35,42,75,10,Cloudy,13
+207,2016-01-13T19:45:00Z,Manchester City ,Everton ,0.0,0.0,Manchester,"(53.4791301, -2.2441008)",2016-01-13,19:45:00Z,31,39,85,9,Light rain shower,10
+208,2016-01-13T20:00:00Z,Liverpool ,Arsenal ,3.0,3.0,Liverpool,"(53.4054719, -2.9805391)",2016-01-13,20:00:00Z,34,42,78,8,Light rain shower,14
+209,2016-01-13T20:00:00Z,Tottenham Hotspur ,Leicester City ,0.0,1.0,London,"(51.5073219, -0.1276473)",2016-01-13,20:00:00Z,32,40,79,9,Cloudy,14
+210,2016-01-16T12:45:00Z,Tottenham Hotspur ,Sunderland AFC,4.0,1.0,London,"(51.5073219, -0.1276473)",2016-01-16,12:45:00Z,27,34,81,10,Partly cloudy,9
+211,2016-01-16T15:00:00Z,Newcastle United ,West Ham United ,2.0,1.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2016-01-16,15:00:00Z,28,35,76,10,Overcast,10
+212,2016-01-16T15:00:00Z,Chelsea ,Everton ,3.0,3.0,London,"(51.5073219, -0.1276473)",2016-01-16,15:00:00Z,27,34,81,10,Partly cloudy,9
+213,2016-01-16T15:00:00Z,Manchester City ,Crystal Palace ,4.0,0.0,Manchester,"(53.4791301, -2.2441008)",2016-01-16,15:00:00Z,30,35,77,10,Cloudy,2
+214,2016-01-16T15:00:00Z,Southampton ,West Bromwich Albion ,3.0,0.0,Southampton,"(50.9025349, -1.4041889)",2016-01-16,15:00:00Z,30,36,80,10,Partly cloudy,8
+215,2016-01-16T15:00:00Z,AFC Bournemouth,Norwich City ,3.0,0.0,Bournemouth,"(50.74467035, -1.85798080318094)",2016-01-16,15:00:00Z,32,37,79,10,Partly cloudy,8
+216,2016-01-16T17:30:00Z,Aston Villa ,Leicester City ,1.0,1.0,Birmingham,"(52.4776875, -1.8948515)",2016-01-16,17:30:00Z,27,33,82,10,Cloudy,8
+217,2016-01-17T14:05:00Z,Liverpool ,Manchester United ,0.0,1.0,Liverpool,"(53.4054719, -2.9805391)",2016-01-17,14:05:00Z,29,38,93,6,Light drizzle,13
+218,2016-01-17T16:15:00Z,Stoke City ,Arsenal ,0.0,0.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2016-01-17,16:15:00Z,23,34,94,9,Overcast,13
+219,2016-01-18T20:00:00Z,Swansea City ,Watford ,1.0,0.0,Swansea,"(51.6211442, -3.946775)",2016-01-18,20:00:00Z,36,45,87,8,Light rain,22
+220,2016-01-23T12:45:00Z,Norwich City ,Liverpool ,4.0,5.0,Norwich,"(52.628606, 1.29227)",2016-01-23,12:45:00Z,38,44,91,10,Partly cloudy,11
+221,2016-01-23T15:00:00Z,West Bromwich Albion ,Aston Villa ,0.0,0.0,West Bromwich,"(52.5186579, -1.9923113)",2016-01-23,15:00:00Z,38,44,93,9,Light rain,13
+222,2016-01-23T15:00:00Z,Watford ,Newcastle United ,2.0,1.0,Watford,"(51.6553875, -0.3957424)",2016-01-23,15:00:00Z,38,44,91,9,Cloudy,10
+223,2016-01-23T15:00:00Z,Leicester City ,Stoke City ,3.0,0.0,Leicester,"(52.6367811, -1.1312288)",2016-01-23,15:00:00Z,37,43,93,9,Overcast,12
+224,2016-01-23T15:00:00Z,Manchester United ,Southampton ,0.0,1.0,Trafford,"(53.4189014, -2.35946945066462)",2016-01-23,15:00:00Z,38,44,92,10,Moderate rain,12
+225,2016-01-23T15:00:00Z,Sunderland AFC,AFC Bournemouth,1.0,1.0,Sunderland,"(54.9063791, -1.3750529)",2016-01-23,15:00:00Z,40,46,91,10,Patchy rain possible,17
+226,2016-01-23T15:00:00Z,Crystal Palace ,Tottenham Hotspur ,1.0,3.0,London,"(51.5073219, -0.1276473)",2016-01-23,15:00:00Z,39,44,90,9,Partly cloudy,11
+227,2016-01-23T17:30:00Z,West Ham United ,Manchester City ,2.0,2.0,London,"(51.5073219, -0.1276473)",2016-01-23,17:30:00Z,39,44,90,9,Partly cloudy,11
+228,2016-01-24T13:30:00Z,Everton ,Swansea City ,1.0,2.0,Liverpool,"(53.4054719, -2.9805391)",2016-01-24,13:30:00Z,50,53,91,9,Patchy rain possible,11
+229,2016-01-24T16:00:00Z,Arsenal ,Chelsea ,0.0,1.0,London,"(51.5073219, -0.1276473)",2016-01-24,16:00:00Z,48,52,95,10,Overcast,13
+230,2016-02-02T19:45:00Z,Sunderland AFC,Manchester City ,0.0,1.0,Sunderland,"(54.9063791, -1.3750529)",2016-02-02,19:45:00Z,32,43,66,9,Light rain shower,32
+231,2016-02-02T19:45:00Z,Leicester City ,Liverpool ,2.0,0.0,Leicester,"(52.6367811, -1.1312288)",2016-02-02,19:45:00Z,33,42,69,10,Partly cloudy,21
+232,2016-02-02T19:45:00Z,Norwich City ,Tottenham Hotspur ,0.0,3.0,Norwich,"(52.628606, 1.29227)",2016-02-02,19:45:00Z,36,45,62,10,Cloudy,22
+233,2016-02-02T19:45:00Z,West Ham United ,Aston Villa ,2.0,0.0,London,"(51.5073219, -0.1276473)",2016-02-02,19:45:00Z,37,45,72,10,Patchy rain possible,20
+234,2016-02-02T19:45:00Z,Arsenal ,Southampton ,0.0,0.0,London,"(51.5073219, -0.1276473)",2016-02-02,19:45:00Z,37,45,72,10,Patchy rain possible,20
+235,2016-02-02T20:00:00Z,Manchester United ,Stoke City ,3.0,0.0,Trafford,"(53.4189014, -2.35946945066462)",2016-02-02,20:00:00Z,30,41,70,8,Light rain shower,25
+236,2016-02-02T20:00:00Z,West Bromwich Albion ,Swansea City ,1.0,1.0,West Bromwich,"(52.5186579, -1.9923113)",2016-02-02,20:00:00Z,33,42,69,10,Partly cloudy,22
+237,2016-02-02T20:00:00Z,Crystal Palace ,AFC Bournemouth,1.0,2.0,London,"(51.5073219, -0.1276473)",2016-02-02,20:00:00Z,37,45,72,10,Patchy rain possible,20
+238,2016-02-03T19:45:00Z,Watford ,Chelsea ,0.0,0.0,Watford,"(51.6553875, -0.3957424)",2016-02-03,19:45:00Z,30,39,78,9,Patchy light drizzle,15
+239,2016-02-03T19:45:00Z,Everton ,Newcastle United ,3.0,0.0,Liverpool,"(53.4054719, -2.9805391)",2016-02-03,19:45:00Z,33,42,71,10,Patchy rain possible,22
+240,2016-02-06T12:45:00Z,Manchester City ,Leicester City ,1.0,3.0,Manchester,"(53.4791301, -2.2441008)",2016-02-06,12:45:00Z,37,44,90,7,Light rain,16
+241,2016-02-06T15:00:00Z,Aston Villa ,Norwich City ,2.0,0.0,Birmingham,"(52.4776875, -1.8948515)",2016-02-06,15:00:00Z,39,46,91,6,Moderate rain,21
+242,2016-02-06T15:00:00Z,Newcastle United ,West Bromwich Albion ,1.0,0.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2016-02-06,15:00:00Z,35,41,87,9,Light rain,11
+243,2016-02-06T15:00:00Z,Swansea City ,Crystal Palace ,1.0,1.0,Swansea,"(51.6211442, -3.946775)",2016-02-06,15:00:00Z,46,51,89,7,Moderate rain,21
+244,2016-02-06T15:00:00Z,Tottenham Hotspur ,Watford ,1.0,0.0,London,"(51.5073219, -0.1276473)",2016-02-06,15:00:00Z,42,49,82,7,Light drizzle,26
+245,2016-02-06T15:00:00Z,Stoke City ,Everton ,0.0,3.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2016-02-06,15:00:00Z,38,45,91,9,Moderate rain,16
+246,2016-02-06T15:00:00Z,Liverpool ,Sunderland AFC,2.0,2.0,Liverpool,"(53.4054719, -2.9805391)",2016-02-06,15:00:00Z,37,44,88,8,Light rain,13
+247,2016-02-06T17:30:00Z,Southampton ,West Ham United ,1.0,0.0,Southampton,"(50.9025349, -1.4041889)",2016-02-06,17:30:00Z,41,48,89,6,Moderate rain,26
+248,2016-02-07T13:30:00Z,AFC Bournemouth,Arsenal ,0.0,2.0,Bournemouth,"(50.74467035, -1.85798080318094)",2016-02-07,13:30:00Z,39,46,79,9,Light rain shower,28
+249,2016-02-07T16:00:00Z,Chelsea ,Manchester United ,1.0,1.0,London,"(51.5073219, -0.1276473)",2016-02-07,16:00:00Z,37,45,77,9,Light drizzle,23
+250,2016-02-13T12:45:00Z,Sunderland AFC,Manchester United ,2.0,1.0,Sunderland,"(54.9063791, -1.3750529)",2016-02-13,12:45:00Z,31,39,82,10,Partly cloudy,15
+251,2016-02-13T15:00:00Z,Crystal Palace ,Watford ,1.0,2.0,London,"(51.5073219, -0.1276473)",2016-02-13,15:00:00Z,32,40,81,9,Light sleet,10
+252,2016-02-13T15:00:00Z,Swansea City ,Southampton ,0.0,1.0,Swansea,"(51.6211442, -3.946775)",2016-02-13,15:00:00Z,35,44,81,7,Light drizzle,19
+253,2016-02-13T15:00:00Z,Norwich City ,West Ham United ,2.0,2.0,Norwich,"(52.628606, 1.29227)",2016-02-13,15:00:00Z,32,40,75,10,Cloudy,10
+254,2016-02-13T15:00:00Z,Everton ,West Bromwich Albion ,0.0,1.0,Liverpool,"(53.4054719, -2.9805391)",2016-02-13,15:00:00Z,30,38,82,10,Patchy rain possible,14
+255,2016-02-13T15:00:00Z,AFC Bournemouth,Stoke City ,1.0,3.0,Bournemouth,"(50.74467035, -1.85798080318094)",2016-02-13,15:00:00Z,35,41,90,7,Moderate rain,16
+256,2016-02-13T17:30:00Z,Chelsea ,Newcastle United ,5.0,1.0,London,"(51.5073219, -0.1276473)",2016-02-13,17:30:00Z,32,40,81,9,Light sleet,10
+257,2016-02-14T12:00:00Z,Arsenal ,Leicester City ,2.0,1.0,London,"(51.5073219, -0.1276473)",2016-02-14,12:00:00Z,30,38,79,10,Cloudy,16
+258,2016-02-14T14:05:00Z,Aston Villa ,Liverpool ,0.0,6.0,Birmingham,"(52.4776875, -1.8948515)",2016-02-14,14:05:00Z,27,36,81,10,Patchy rain possible,14
+259,2016-02-14T16:15:00Z,Manchester City ,Tottenham Hotspur ,1.0,2.0,Manchester,"(53.4791301, -2.2441008)",2016-02-14,16:15:00Z,27,36,77,10,Partly cloudy,14
+260,2016-02-27T12:45:00Z,West Ham United ,Sunderland AFC,1.0,0.0,London,"(51.5073219, -0.1276473)",2016-02-27,12:45:00Z,30,38,73,10,Overcast,13
+261,2016-02-27T15:00:00Z,Southampton ,Chelsea ,1.0,2.0,Southampton,"(50.9025349, -1.4041889)",2016-02-27,15:00:00Z,32,40,70,10,Overcast,14
+262,2016-02-27T15:00:00Z,Stoke City ,Aston Villa ,2.0,1.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2016-02-27,15:00:00Z,28,36,77,10,Cloudy,9
+263,2016-02-27T15:00:00Z,Watford ,AFC Bournemouth,0.0,0.0,Watford,"(51.6553875, -0.3957424)",2016-02-27,15:00:00Z,28,36,75,10,Overcast,11
+264,2016-02-27T15:00:00Z,Leicester City ,Norwich City ,1.0,0.0,Leicester,"(52.6367811, -1.1312288)",2016-02-27,15:00:00Z,28,36,79,10,Light snow,9
+265,2016-02-27T17:30:00Z,West Bromwich Albion ,Crystal Palace ,3.0,2.0,West Bromwich,"(52.5186579, -1.9923113)",2016-02-27,17:30:00Z,28,36,80,10,Light snow,11
+266,2016-02-28T14:05:00Z,Tottenham Hotspur ,Swansea City ,2.0,1.0,London,"(51.5073219, -0.1276473)",2016-02-28,14:05:00Z,30,39,73,10,Cloudy,15
+267,2016-02-28T14:05:00Z,Manchester United ,Arsenal ,3.0,2.0,Trafford,"(53.4189014, -2.35946945066462)",2016-02-28,14:05:00Z,30,36,77,10,Sunny,8
+268,2016-03-01T19:45:00Z,Leicester City ,West Bromwich Albion ,2.0,2.0,Leicester,"(52.6367811, -1.1312288)",2016-03-01,19:45:00Z,38,46,88,9,Moderate rain,17
+269,2016-03-01T19:45:00Z,Norwich City ,Chelsea ,1.0,2.0,Norwich,"(52.628606, 1.29227)",2016-03-01,19:45:00Z,37,45,84,8,Moderate rain,15
+270,2016-03-01T19:45:00Z,AFC Bournemouth,Southampton ,2.0,0.0,Bournemouth,"(50.74467035, -1.85798080318094)",2016-03-01,19:45:00Z,44,50,92,6,Moderate rain,19
+271,2016-03-01T19:45:00Z,Sunderland AFC,Crystal Palace ,2.0,2.0,Sunderland,"(54.9063791, -1.3750529)",2016-03-01,19:45:00Z,41,48,90,5,Moderate rain,22
+272,2016-03-01T19:45:00Z,Aston Villa ,Everton ,1.0,3.0,Birmingham,"(52.4776875, -1.8948515)",2016-03-01,19:45:00Z,39,47,88,8,Moderate rain,18
+273,2016-03-02T19:45:00Z,West Ham United ,Tottenham Hotspur ,1.0,0.0,London,"(51.5073219, -0.1276473)",2016-03-02,19:45:00Z,33,42,75,9,Light sleet,21
+274,2016-03-02T19:45:00Z,Arsenal ,Swansea City ,1.0,2.0,London,"(51.5073219, -0.1276473)",2016-03-02,19:45:00Z,33,42,75,9,Light sleet,21
+275,2016-03-02T19:45:00Z,Stoke City ,Newcastle United ,1.0,0.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2016-03-02,19:45:00Z,28,37,81,7,Patchy heavy snow,21
+276,2016-03-02T20:00:00Z,Manchester United ,Watford ,1.0,0.0,Trafford,"(53.4189014, -2.35946945066462)",2016-03-02,20:00:00Z,29,38,80,8,Moderate or heavy snow showers,21
+277,2016-03-02T20:00:00Z,Liverpool ,Manchester City ,3.0,0.0,Liverpool,"(53.4054719, -2.9805391)",2016-03-02,20:00:00Z,32,42,74,9,Moderate or heavy rain shower,28
+278,2016-03-05T12:45:00Z,Tottenham Hotspur ,Arsenal ,2.0,2.0,London,"(51.5073219, -0.1276473)",2016-03-05,12:45:00Z,31,39,81,10,Light rain shower,13
+279,2016-03-05T15:00:00Z,Southampton ,Sunderland AFC,1.0,1.0,Southampton,"(50.9025349, -1.4041889)",2016-03-05,15:00:00Z,31,38,80,10,Light rain shower,13
+280,2016-03-05T15:00:00Z,Chelsea ,Stoke City ,1.0,1.0,London,"(51.5073219, -0.1276473)",2016-03-05,15:00:00Z,31,39,81,10,Light rain shower,13
+281,2016-03-05T15:00:00Z,Everton ,West Ham United ,2.0,3.0,Liverpool,"(53.4054719, -2.9805391)",2016-03-05,15:00:00Z,33,41,82,9,Light rain shower,17
+282,2016-03-05T15:00:00Z,Newcastle United ,AFC Bournemouth,1.0,3.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2016-03-05,15:00:00Z,35,42,79,10,Patchy rain possible,12
+283,2016-03-05T15:00:00Z,Swansea City ,Norwich City ,1.0,0.0,Swansea,"(51.6211442, -3.946775)",2016-03-05,15:00:00Z,32,41,77,10,Patchy rain possible,19
+284,2016-03-05T15:00:00Z,Manchester City ,Aston Villa ,4.0,0.0,Manchester,"(53.4791301, -2.2441008)",2016-03-05,15:00:00Z,29,38,87,10,Patchy rain possible,14
+285,2016-03-05T17:30:00Z,Watford ,Leicester City ,0.0,1.0,Watford,"(51.6553875, -0.3957424)",2016-03-05,17:30:00Z,30,38,81,10,Light rain shower,14
+286,2016-03-06T13:30:00Z,Crystal Palace ,Liverpool ,1.0,2.0,London,"(51.5073219, -0.1276473)",2016-03-06,13:30:00Z,30,38,80,10,Moderate or heavy snow showers,11
+287,2016-03-06T16:00:00Z,West Bromwich Albion ,Manchester United ,1.0,0.0,West Bromwich,"(52.5186579, -1.9923113)",2016-03-06,16:00:00Z,27,35,80,10,Light snow,10
+288,2016-03-12T12:45:00Z,Norwich City ,Manchester City ,0.0,0.0,Norwich,"(52.628606, 1.29227)",2016-03-12,12:45:00Z,39,43,82,10,Overcast,4
+289,2016-03-12T15:00:00Z,AFC Bournemouth,Swansea City ,3.0,2.0,Bournemouth,"(50.74467035, -1.85798080318094)",2016-03-12,15:00:00Z,42,43,80,10,Overcast,3
+290,2016-03-12T15:00:00Z,Stoke City ,Southampton ,1.0,2.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2016-03-12,15:00:00Z,40,44,86,10,Overcast,7
+291,2016-03-13T16:00:00Z,Aston Villa ,Tottenham Hotspur ,0.0,2.0,Birmingham,"(52.4776875, -1.8948515)",2016-03-13,16:00:00Z,42,45,78,10,Sunny,5
+292,2016-03-14T20:00:00Z,Leicester City ,Newcastle United ,1.0,0.0,Leicester,"(52.6367811, -1.1312288)",2016-03-14,20:00:00Z,33,40,83,10,Sunny,12
+293,2016-03-19T12:45:00Z,Everton ,Arsenal ,0.0,2.0,Liverpool,"(53.4054719, -2.9805391)",2016-03-19,12:45:00Z,40,44,80,10,Overcast,8
+294,2016-03-19T15:00:00Z,Watford ,Stoke City ,1.0,2.0,Watford,"(51.6553875, -0.3957424)",2016-03-19,15:00:00Z,34,41,85,10,Patchy rain possible,12
+295,2016-03-19T15:00:00Z,West Bromwich Albion ,Norwich City ,0.0,1.0,West Bromwich,"(52.5186579, -1.9923113)",2016-03-19,15:00:00Z,35,41,85,10,Patchy rain possible,11
+296,2016-03-19T15:00:00Z,Chelsea ,West Ham United ,2.0,2.0,London,"(51.5073219, -0.1276473)",2016-03-19,15:00:00Z,35,42,84,9,Patchy rain possible,12
+297,2016-03-19T15:00:00Z,Crystal Palace ,Leicester City ,0.0,1.0,London,"(51.5073219, -0.1276473)",2016-03-19,15:00:00Z,35,42,84,9,Patchy rain possible,12
+298,2016-03-19T17:30:00Z,Swansea City ,Aston Villa ,1.0,0.0,Swansea,"(51.6211442, -3.946775)",2016-03-19,17:30:00Z,39,45,78,10,Overcast,11
+299,2016-03-20T13:30:00Z,Newcastle United ,Sunderland AFC,1.0,1.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2016-03-20,13:30:00Z,43,46,79,10,Overcast,7
+300,2016-03-20T13:30:00Z,Southampton ,Liverpool ,3.0,2.0,Southampton,"(50.9025349, -1.4041889)",2016-03-20,13:30:00Z,38,43,78,10,Overcast,10
+301,2016-03-20T16:00:00Z,Manchester City ,Manchester United ,0.0,1.0,Manchester,"(53.4791301, -2.2441008)",2016-03-20,16:00:00Z,42,44,84,10,Overcast,4
+302,2016-03-20T16:00:00Z,Tottenham Hotspur ,AFC Bournemouth,3.0,0.0,London,"(51.5073219, -0.1276473)",2016-03-20,16:00:00Z,38,43,79,10,Patchy rain possible,11
+303,2016-04-02T11:45:00Z,Aston Villa ,Chelsea ,0.0,4.0,Birmingham,"(52.4776875, -1.8948515)",2016-04-02,11:45:00Z,42,48,79,9,Light rain,13
+304,2016-04-02T14:00:00Z,Stoke City ,Swansea City ,2.0,2.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2016-04-02,14:00:00Z,40,47,84,9,Light rain,13
+305,2016-04-02T14:00:00Z,West Ham United ,Crystal Palace ,2.0,2.0,London,"(51.5073219, -0.1276473)",2016-04-02,14:00:00Z,44,48,75,10,Light rain,9
+306,2016-04-02T14:00:00Z,Arsenal ,Watford ,4.0,0.0,London,"(51.5073219, -0.1276473)",2016-04-02,14:00:00Z,44,48,75,10,Light rain,9
+307,2016-04-02T14:00:00Z,AFC Bournemouth,Manchester City ,0.0,4.0,Bournemouth,"(50.74467035, -1.85798080318094)",2016-04-02,14:00:00Z,46,50,75,9,Patchy rain possible,12
+308,2016-04-02T14:00:00Z,Norwich City ,Newcastle United ,3.0,2.0,Norwich,"(52.628606, 1.29227)",2016-04-02,14:00:00Z,43,49,68,9,Light drizzle,10
+309,2016-04-02T14:00:00Z,Sunderland AFC,West Bromwich Albion ,0.0,0.0,Sunderland,"(54.9063791, -1.3750529)",2016-04-02,14:00:00Z,39,46,89,9,Light rain,13
+310,2016-04-02T16:30:00Z,Liverpool ,Tottenham Hotspur ,1.0,1.0,Liverpool,"(53.4054719, -2.9805391)",2016-04-02,16:30:00Z,43,49,84,9,Light rain,13
+311,2016-04-03T12:30:00Z,Leicester City ,Southampton ,1.0,0.0,Leicester,"(52.6367811, -1.1312288)",2016-04-03,12:30:00Z,46,49,88,7,Light rain,9
+312,2016-04-03T15:00:00Z,Manchester United ,Everton ,1.0,0.0,Trafford,"(53.4189014, -2.35946945066462)",2016-04-03,15:00:00Z,43,47,85,7,Light rain shower,9
+313,2016-04-09T11:45:00Z,West Ham United ,Arsenal ,3.0,3.0,London,"(51.5073219, -0.1276473)",2016-04-09,11:45:00Z,39,45,80,8,Light rain shower,13
+314,2016-04-09T14:00:00Z,Crystal Palace ,Norwich City ,1.0,0.0,London,"(51.5073219, -0.1276473)",2016-04-09,14:00:00Z,39,45,80,8,Light rain shower,13
+315,2016-04-09T14:00:00Z,Watford ,Everton ,1.0,1.0,Watford,"(51.6553875, -0.3957424)",2016-04-09,14:00:00Z,38,44,82,9,Light rain shower,11
+316,2016-04-09T14:00:00Z,Southampton ,Newcastle United ,3.0,1.0,Southampton,"(50.9025349, -1.4041889)",2016-04-09,14:00:00Z,41,46,76,8,Light rain shower,13
+317,2016-04-09T14:00:00Z,Swansea City ,Chelsea ,1.0,0.0,Swansea,"(51.6211442, -3.946775)",2016-04-09,14:00:00Z,37,43,69,10,Patchy rain possible,11
+318,2016-04-09T14:00:00Z,Aston Villa ,AFC Bournemouth,1.0,2.0,Birmingham,"(52.4776875, -1.8948515)",2016-04-09,14:00:00Z,38,43,81,9,Light rain shower,9
+319,2016-04-09T16:30:00Z,Manchester City ,West Bromwich Albion ,2.0,1.0,Manchester,"(53.4791301, -2.2441008)",2016-04-09,16:30:00Z,37,43,79,9,Light rain shower,9
+320,2016-04-10T12:30:00Z,Sunderland AFC,Leicester City ,0.0,2.0,Sunderland,"(54.9063791, -1.3750529)",2016-04-10,12:30:00Z,37,43,68,10,Partly cloudy,13
+321,2016-04-10T15:00:00Z,Tottenham Hotspur ,Manchester United ,3.0,0.0,London,"(51.5073219, -0.1276473)",2016-04-10,15:00:00Z,40,46,72,10,Cloudy,15
+322,2016-04-10T15:00:00Z,Liverpool ,Stoke City ,4.0,1.0,Liverpool,"(53.4054719, -2.9805391)",2016-04-10,15:00:00Z,37,44,69,10,Cloudy,14
+323,2016-04-13T19:00:00Z,Crystal Palace ,Everton ,0.0,0.0,London,"(51.5073219, -0.1276473)",2016-04-13,19:00:00Z,52,53,73,10,Light rain shower,4
+324,2016-04-16T11:45:00Z,Norwich City ,Sunderland AFC,0.0,3.0,Norwich,"(52.628606, 1.29227)",2016-04-16,11:45:00Z,38,44,84,7,Light rain shower,10
+325,2016-04-16T14:00:00Z,West Bromwich Albion ,Watford ,0.0,1.0,West Bromwich,"(52.5186579, -1.9923113)",2016-04-16,14:00:00Z,29,38,87,7,Light rain shower,13
+326,2016-04-16T14:00:00Z,Newcastle United ,Swansea City ,3.0,0.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2016-04-16,14:00:00Z,32,39,80,8,Light sleet showers,13
+327,2016-04-16T14:00:00Z,Everton ,Southampton ,1.0,1.0,Liverpool,"(53.4054719, -2.9805391)",2016-04-16,14:00:00Z,32,40,80,7,Light rain shower,14
+328,2016-04-16T14:00:00Z,Manchester United ,Aston Villa ,1.0,0.0,Trafford,"(53.4189014, -2.35946945066462)",2016-04-16,14:00:00Z,30,38,88,7,Heavy snow,12
+329,2016-04-16T16:30:00Z,Chelsea ,Manchester City ,0.0,3.0,London,"(51.5073219, -0.1276473)",2016-04-16,16:30:00Z,35,42,87,9,Light rain shower,11
+330,2016-04-17T12:30:00Z,Leicester City ,West Ham United ,2.0,2.0,Leicester,"(52.6367811, -1.1312288)",2016-04-17,12:30:00Z,38,43,73,10,Partly cloudy,6
+331,2016-04-17T12:30:00Z,AFC Bournemouth,Liverpool ,1.0,2.0,Bournemouth,"(50.74467035, -1.85798080318094)",2016-04-17,12:30:00Z,42,45,68,10,Cloudy,9
+332,2016-04-17T15:00:00Z,Arsenal ,Crystal Palace ,1.0,1.0,London,"(51.5073219, -0.1276473)",2016-04-17,15:00:00Z,40,44,67,10,Partly cloudy,6
+333,2016-04-18T19:00:00Z,Stoke City ,Tottenham Hotspur ,0.0,4.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2016-04-18,19:00:00Z,38,44,84,10,Light rain shower,14
+334,2016-04-19T18:45:00Z,Newcastle United ,Manchester City ,1.0,1.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2016-04-19,18:45:00Z,42,46,74,10,Cloudy,9
+335,2016-04-20T18:45:00Z,West Ham United ,Watford ,3.0,1.0,London,"(51.5073219, -0.1276473)",2016-04-20,18:45:00Z,42,48,76,10,Sunny,13
+336,2016-04-20T19:00:00Z,Manchester United ,Crystal Palace ,2.0,0.0,Trafford,"(53.4189014, -2.35946945066462)",2016-04-20,19:00:00Z,48,51,66,10,Sunny,6
+337,2016-04-20T19:00:00Z,Liverpool ,Everton ,4.0,0.0,Liverpool,"(53.4054719, -2.9805391)",2016-04-20,19:00:00Z,49,52,70,10,Sunny,7
+338,2016-04-21T18:45:00Z,Arsenal ,West Bromwich Albion ,2.0,0.0,London,"(51.5073219, -0.1276473)",2016-04-21,18:45:00Z,45,50,75,10,Partly cloudy,15
+339,2016-04-23T14:00:00Z,AFC Bournemouth,Chelsea ,1.0,4.0,Bournemouth,"(50.74467035, -1.85798080318094)",2016-04-23,14:00:00Z,42,46,70,10,Patchy rain possible,14
+340,2016-04-23T14:00:00Z,Liverpool ,Newcastle United ,2.0,2.0,Liverpool,"(53.4054719, -2.9805391)",2016-04-23,14:00:00Z,38,43,68,10,Partly cloudy,12
+341,2016-04-23T14:00:00Z,Aston Villa ,Southampton ,2.0,4.0,Birmingham,"(52.4776875, -1.8948515)",2016-04-23,14:00:00Z,35,42,73,10,Light rain shower,11
+342,2016-04-24T11:00:00Z,Manchester City ,Stoke City ,4.0,0.0,Manchester,"(53.4791301, -2.2441008)",2016-04-24,11:00:00Z,37,40,72,10,Overcast,9
+343,2016-04-24T13:05:00Z,Sunderland AFC,Arsenal ,0.0,0.0,Sunderland,"(54.9063791, -1.3750529)",2016-04-24,13:05:00Z,36,40,66,9,Light drizzle,10
+344,2016-04-24T15:15:00Z,Leicester City ,Swansea City ,4.0,0.0,Leicester,"(52.6367811, -1.1312288)",2016-04-24,15:15:00Z,35,41,76,10,Patchy rain possible,10
+345,2016-04-25T19:00:00Z,Tottenham Hotspur ,West Bromwich Albion ,1.0,1.0,London,"(51.5073219, -0.1276473)",2016-04-25,19:00:00Z,39,45,81,9,Light rain shower,13
+346,2016-04-30T14:00:00Z,Watford ,Aston Villa ,3.0,2.0,Watford,"(51.6553875, -0.3957424)",2016-04-30,14:00:00Z,40,45,72,10,Light rain shower,9
+347,2016-04-30T14:00:00Z,Everton ,AFC Bournemouth,2.0,1.0,Liverpool,"(53.4054719, -2.9805391)",2016-04-30,14:00:00Z,39,44,70,10,Light rain shower,11
+348,2016-04-30T14:00:00Z,West Bromwich Albion ,West Ham United ,0.0,3.0,West Bromwich,"(52.5186579, -1.9923113)",2016-04-30,14:00:00Z,37,42,77,10,Light rain shower,8
+349,2016-04-30T14:00:00Z,Stoke City ,Sunderland AFC,1.0,1.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2016-04-30,14:00:00Z,37,43,77,10,Patchy rain possible,9
+350,2016-04-30T14:00:00Z,Newcastle United ,Crystal Palace ,1.0,0.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2016-04-30,14:00:00Z,39,44,68,10,Patchy rain possible,10
+351,2016-04-30T16:30:00Z,Arsenal ,Norwich City ,1.0,0.0,London,"(51.5073219, -0.1276473)",2016-04-30,16:30:00Z,41,46,68,10,Patchy rain possible,8
+352,2016-05-01T11:00:00Z,Swansea City ,Liverpool ,3.0,1.0,Swansea,"(51.6211442, -3.946775)",2016-05-01,11:00:00Z,43,48,89,7,Light rain,16
+353,2016-05-01T13:05:00Z,Manchester United ,Leicester City ,1.0,1.0,Trafford,"(53.4189014, -2.35946945066462)",2016-05-01,13:05:00Z,38,44,91,8,Light rain,12
+354,2016-05-01T15:30:00Z,Southampton ,Manchester City ,4.0,2.0,Southampton,"(50.9025349, -1.4041889)",2016-05-01,15:30:00Z,45,48,77,10,Overcast,9
+355,2016-05-02T19:00:00Z,Chelsea ,Tottenham Hotspur ,2.0,2.0,London,"(51.5073219, -0.1276473)",2016-05-02,19:00:00Z,48,53,87,10,Light rain shower,17
+356,2016-05-07T11:45:00Z,Norwich City ,Manchester United ,0.0,1.0,Norwich,"(52.628606, 1.29227)",2016-05-07,11:45:00Z,62,65,69,10,Sunny,9
+357,2016-05-07T14:00:00Z,Crystal Palace ,Stoke City ,2.0,1.0,London,"(51.5073219, -0.1276473)",2016-05-07,14:00:00Z,63,65,73,10,Patchy rain possible,11
+358,2016-05-07T14:00:00Z,West Ham United ,Swansea City ,1.0,4.0,London,"(51.5073219, -0.1276473)",2016-05-07,14:00:00Z,63,65,73,10,Patchy rain possible,11
+359,2016-05-07T14:00:00Z,Aston Villa ,Newcastle United ,0.0,0.0,Birmingham,"(52.4776875, -1.8948515)",2016-05-07,14:00:00Z,57,60,81,10,Moderate or heavy rain shower,10
+360,2016-05-07T14:00:00Z,AFC Bournemouth,West Bromwich Albion ,1.0,1.0,Bournemouth,"(50.74467035, -1.85798080318094)",2016-05-07,14:00:00Z,60,61,72,9,Cloudy,11
+361,2016-05-07T14:00:00Z,Sunderland AFC,Chelsea ,3.0,2.0,Sunderland,"(54.9063791, -1.3750529)",2016-05-07,14:00:00Z,54,57,80,9,Moderate or heavy rain shower,14
+362,2016-05-07T16:30:00Z,Leicester City ,Everton ,3.0,1.0,Leicester,"(52.6367811, -1.1312288)",2016-05-07,16:30:00Z,57,60,82,10,Light rain shower,9
+363,2016-05-08T12:30:00Z,Tottenham Hotspur ,Southampton ,1.0,2.0,London,"(51.5073219, -0.1276473)",2016-05-08,12:30:00Z,65,67,68,10,Patchy rain possible,13
+364,2016-05-08T15:00:00Z,Liverpool ,Watford ,2.0,0.0,Liverpool,"(53.4054719, -2.9805391)",2016-05-08,15:00:00Z,61,63,78,10,Patchy rain possible,13
+365,2016-05-08T15:00:00Z,Manchester City ,Arsenal ,2.0,2.0,Manchester,"(53.4791301, -2.2441008)",2016-05-08,15:00:00Z,62,65,72,10,Patchy rain possible,14
+366,2016-05-10T18:45:00Z,West Ham United ,Manchester United ,3.0,2.0,London,"(51.5073219, -0.1276473)",2016-05-10,18:45:00Z,60,61,92,8,Light rain shower,11
+367,2016-05-11T18:45:00Z,Sunderland AFC,Everton ,3.0,0.0,Sunderland,"(54.9063791, -1.3750529)",2016-05-11,18:45:00Z,53,57,85,8,Light rain,16
+368,2016-05-11T18:45:00Z,Norwich City ,Watford ,4.0,2.0,Norwich,"(52.628606, 1.29227)",2016-05-11,18:45:00Z,59,60,85,9,Cloudy,10
+369,2016-05-11T19:00:00Z,Liverpool ,Chelsea ,1.0,1.0,Liverpool,"(53.4054719, -2.9805391)",2016-05-11,19:00:00Z,56,58,89,9,Light rain shower,16
+370,2016-05-15T14:00:00Z,Stoke City ,West Ham United ,2.0,1.0,Stoke-on-Trent,"(53.0162014, -2.1812606)",2016-05-15,14:00:00Z,44,47,79,10,Cloudy,7
+371,2016-05-15T14:00:00Z,Southampton ,Crystal Palace ,4.0,1.0,Southampton,"(50.9025349, -1.4041889)",2016-05-15,14:00:00Z,51,52,76,10,Patchy rain possible,6
+372,2016-05-15T14:00:00Z,Arsenal ,Aston Villa ,4.0,0.0,London,"(51.5073219, -0.1276473)",2016-05-15,14:00:00Z,50,51,76,10,Patchy rain possible,7
+373,2016-05-15T14:00:00Z,Newcastle United ,Tottenham Hotspur ,5.0,1.0,Newcastle upon Tyne,"(54.9770924, -1.6142058)",2016-05-15,14:00:00Z,46,47,70,10,Overcast,5
+374,2016-05-15T14:00:00Z,Watford ,Sunderland AFC,2.0,2.0,Watford,"(51.6553875, -0.3957424)",2016-05-15,14:00:00Z,48,50,78,10,Overcast,6
+375,2016-05-15T14:00:00Z,Swansea City ,Manchester City ,1.0,1.0,Swansea,"(51.6211442, -3.946775)",2016-05-15,14:00:00Z,48,52,70,10,Partly cloudy,10
+376,2016-05-15T14:00:00Z,West Bromwich Albion ,Liverpool ,1.0,1.0,West Bromwich,"(52.5186579, -1.9923113)",2016-05-15,14:00:00Z,46,48,79,10,Patchy rain possible,7
+377,2016-05-15T14:00:00Z,Everton ,Norwich City ,3.0,0.0,Liverpool,"(53.4054719, -2.9805391)",2016-05-15,14:00:00Z,45,49,76,10,Partly cloudy,10
+378,2016-05-15T14:00:00Z,Chelsea ,Leicester City ,1.0,1.0,London,"(51.5073219, -0.1276473)",2016-05-15,14:00:00Z,50,51,76,10,Patchy rain possible,7
+379,2016-05-17T19:00:00Z,Manchester United ,AFC Bournemouth,3.0,1.0,Trafford,"(53.4189014, -2.35946945066462)",2016-05-17,19:00:00Z,50,52,84,8,Light rain shower,6
